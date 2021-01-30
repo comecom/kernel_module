@@ -21,4 +21,5 @@ rmmod -> charadev_exit
 you can check ioctl() in dmesg
 
 ## timer
+thank you :)
 https://johnjarrer.tistory.com/80
