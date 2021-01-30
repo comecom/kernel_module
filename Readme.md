@@ -19,3 +19,6 @@ insmod -> chardev_init -> /dev/chardev0
 rmmod -> charadev_exit
 
 you can check ioctl() in dmesg
+
+## timer
+https://johnjarrer.tistory.com/80
